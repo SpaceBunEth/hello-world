@@ -1,7 +1,7 @@
 # hello-world
-## **UwU** SpaceBun - "destroyer of worlds" uwu
+## UwU SpaceBun - "destroyer of worlds" uwu
 ---
-
+==UwU==
 ## Take over the world! 
 ### TO - DO 
 
@@ -16,7 +16,7 @@
 
 1. Stare at stockoverflow for hours
 2. Look at self through reflection in monitor 
-3. ==Cry==
+3. **Cry**
 4. ~~Profit~~
 5. Repeat
 ---
